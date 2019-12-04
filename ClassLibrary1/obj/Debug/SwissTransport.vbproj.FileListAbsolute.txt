@@ -1,0 +1,13 @@
+C:\Users\ProBook\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ProBook\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ProBook\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.xml
+C:\Users\ProBook\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ProBook\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ProBook\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
+C:\Users\ProBook\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\SwissTransport.vbproj.GenerateResource.cache
+C:\Users\ProBook\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\SwissTransport.vbproj.CoreCompileInputs.cache
+C:\Users\ProBook\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\SwissTransport.vbproj.CopyComplete
+C:\Users\ProBook\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ProBook\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.xml
+C:\Users\ProBook\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\ProBook\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\SwissTransport.vbprojAssemblyReference.cache
